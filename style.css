@@ -1,3 +1,16 @@
 body {
   text-align: center;
 }
+
+#First-blog-thing {
+  width: 200px;
+  border: 2px solid orange;
+  padding: 15px 215px 70px 15px;
+  background-color: coral;
+  margin: auto;
+}
+
+img {
+  max-width: 200%;
+  align-items: center;
+}
