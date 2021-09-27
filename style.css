@@ -2,15 +2,25 @@ body {
   text-align: center;
 }
 
-.First-blog-thing {
+.First-blog {
+  text-align: center;
   width: 200px;
   border: 2px solid orange;
   padding: 15px 215px 70px 15px;
   background-color: coral;
   margin: auto;
+  border-radius: 10px;
 }
 
 img {
   max-width: 200%;
   align-items: center;
+}
+.Blog2 {
+  background-color: orange;
+  width: 200px;
+  padding: 15px 215px 70px 15px;
+  margin: 40px auto;
+  border-radius: 10px;
+  text-indent: ;
 }
