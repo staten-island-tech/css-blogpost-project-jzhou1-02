@@ -2,13 +2,16 @@ body {
   text-align: center;
 }
 
-.First-blog {
+.Blog1 {
+  font-family: "Birthstone", cursive;
+  font-size: 25px;
   text-align: center;
   width: 200px;
-  border: 2px solid orange;
+  border: 2px solid rgb(0, 183, 255);
   padding: 15px 215px 70px 15px;
-  background-color: coral;
-  margin: auto;
+  background-color: #ffb74c;
+  margin: 0 auto;
+  margin-top: 30px;
   border-radius: 10px;
 }
 
@@ -16,11 +19,29 @@ img {
   max-width: 200%;
   align-items: center;
 }
+
 .Blog2 {
-  background-color: orange;
+  font-family: "Birthstone", cursive;
+  font-size: 25px;
+  text-align: center;
   width: 200px;
+  border: 2px solid rgb(0, 183, 255);
   padding: 15px 215px 70px 15px;
-  margin: 40px auto;
+  background-color: #ffb74c;
+  margin: 0 auto;
+  margin-top: 30px;
   border-radius: 10px;
-  text-indent: ;
+}
+
+.Blog3 {
+  font-family: "Birthstone", cursive;
+  font-size: 25px;
+  text-align: center;
+  width: 200px;
+  border: 2px solid rgb(0, 183, 255);
+  padding: 15px 215px 70px 15px;
+  background-color: #ffb74c;
+  margin: 0 auto;
+  margin-top: 30px;
+  border-radius: 10px;
 }
